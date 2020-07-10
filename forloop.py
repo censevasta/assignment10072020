@@ -1,0 +1,1 @@
+for i in {'n1' : 'one', 'n2' : 'two'} : print(i) 
